@@ -1,0 +1,20 @@
+{
+  "name": "siano-pair",
+  "version": "1.0.0",
+  "description": "SIANO v1 pair site - link WhatsApp and get your SESSION_ID",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "express": "^4.21.2",
+    "pino": "^9.5.0"
+  },
+  "license": "MIT"
+}
