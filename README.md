@@ -1,5 +1,7 @@
 # SIANO pair site
 
+https://siano-mdv1-pairing-code.onrender.com/
+
 A small website that links a WhatsApp number using a pairing code and hands back a `SESSION_ID` (plus `OWNER_NUMBER` / `OWNER_LID`) ready to paste into a bot host's environment variables.
 
 ## How it works
