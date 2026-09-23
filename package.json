@@ -15,8 +15,6 @@
     "@whiskeysockets/baileys": "^7.0.0-rc14",
     "express": "^4.21.2",
     "pino": "^9.5.0"
-    "ffmpeg-static": "^5.2.0",
-    "@distube/ytdl-core": "^4.16.12",
   },
   "license": "MIT"
 }
